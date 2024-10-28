@@ -15,7 +15,7 @@ Utilizar ferramentas de análise de dados para compreender o comportamento de cl
 
 <h2 align ="left"> Análise Exploratória</h2>
 
-A análise exploratória foi o processo de analisar os dados quanto a seu tipo, distribuição, valores faltantes e afins. Posteriormente seguiu-se para a visualização dos comportamentos dos dados: Entrada de clínicas, cálculo de métricas, atividades diárias e outras análises importantes para demonstrar pontos oportunos de otimização. Toda a análise exploratória se encontra neste notebook.
+A análise exploratória foi o processo de analisar os dados quanto a seu tipo, distribuição, valores faltantes e afins. Posteriormente seguiu-se para a visualização dos comportamentos dos dados: Entrada de clínicas, cálculo de métricas, atividades diárias e outras análises importantes para demonstrar pontos oportunos de otimização. Toda a análise exploratória se encontra [neste notebook](https://github.com/KaueAbbe/Aquisicao_Clinicas/blob/main/Analise%20Exploratoria.ipynb).
 Estas análise foram a base para a confecção da modelagem, dashboard e apresentação.
 
 <h2 align ="left"> Modelagem</h2>
@@ -26,7 +26,7 @@ Com base nos dados presentes e nos valores importantes de se acompanhar fiz a mo
 
 <h2 align ="left"> Dashboard</h2>
 
-Eu apresento a visualização do Dashboard operacional no arquivo em PDF. Ele pode ser visualizado clicando aqui.
+Eu apresento a visualização do Dashboard operacional no arquivo em PDF. Ele pode ser visualizado [clicando aqui](https://github.com/KaueAbbe/Aquisicao_Clinicas/blob/main/Dashboard_Aquisicao_Clinicas.pdf).
 
 <h2 align ="left"> Apresentação dos Resultados</h2>
 
