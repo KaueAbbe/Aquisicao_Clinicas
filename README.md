@@ -26,10 +26,33 @@ Com base nos dados presentes e nos valores importantes de se acompanhar fiz a mo
 
 <h2 align ="left"> Dashboard</h2>
 
-Eu apresento a visualização do Dashboard operacional no arquivo em PDF. Ele pode ser visualizado [clicando aqui](https://github.com/KaueAbbe/Aquisicao_Clinicas/blob/main/Dashboard_Aquisicao_Clinicas.pdf).
+Eu apresento a visualização do Dashboard operacional no arquivo em PDF.Feito com PowerBI ele pode ser visualizado [clicando aqui](https://github.com/KaueAbbe/Aquisicao_Clinicas/blob/main/Dashboard_Aquisicao_Clinicas.pdf).
 
 <h2 align ="left"> Apresentação dos Resultados</h2>
 
-A apresentação dos resultados pode ser visualizada no arquivo...
+A apresentação dos resultados pode ser visualizada no arquivo "Case Aquisição de Clínicas.pdf", ou [clicando aqui.](https://github.com/KaueAbbe/Aquisicao_Clinicas/blob/main/Case%20Aquisição%20de%20Clínicas.pdf)
 
+<h2 align ="center">Autor 🚀</h2>
+<a>
+<img style = "border-radius: 50%;" src = https://github.com/KaueAbbe/Analise_ChurnRate/assets/68445400/bd4b5b79-4826-4d72-91e4-5fc7532ac19b width="250px;" alt=""/>
+
+ <sub><b></b></sub></a> 
+
+<h4> Feito com 💙 por Kaue Hermann Abbehausen 👋🏽 
+<br/> 
+
+ 
+ 1.Cientista de Dados
+ 
+ 2. Formado em Física na Universidade Federal de Uberlândia
+ 
+ 3. Mestre em Física Estatística na Universidade de Brasília</h4>
+<h4> Entre em contato por</h4>
+<div align = "center"> 
+
+<div align = "center"> 
+   <a href="https://www.linkedin.com/in/kaue-abbehausen-5b1922165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/kaue.hermann/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kaueabbehausen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
