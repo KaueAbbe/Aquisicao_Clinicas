@@ -6,7 +6,7 @@
 
 Utilizar ferramentas de análise de dados para compreender o comportamento de clínicas durante período de teste da plataforma de trabalho da Real, e com isso identificar pontos de atraso e oportuinidade de otimizar a conversão de clínicas para assinantes da plataforma. 
 
-<h1 align ="center"> Ferramentas utilizadas</h1>
+<h1 align ="center"> Ferramentas Utilizadas</h1>
 
 1. Python: Análise Exploratória utilizando bibliotecas como Pandas, Numpy, Matplotlib e Seaborn. Também foram realizados teste de hipóteses utilizando Scipy. Utilizei o Python para organizar o modelo físico dos dados;
 2. PowerBI: Confecção de um relatório com Dashboards apresentando o comportamento das clínicas sob diferentes perspectivas.
